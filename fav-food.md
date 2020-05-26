@@ -16,7 +16,7 @@ _YourDictionary.com_ defines a grilled cheese as:
 >(plural grilled cheeses)
 >(North America, colloquial) A grilled cheese sandwich: a cheese sandwich typically toasted or fried in butter.
 
-!(image of grilled cheese sandwich)[http://clipart-library.com/img/1363127.jpg]
+![image of grilled cheese sandwich](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grilled-cheese-horizontal-jpg-1522266016.jpg?resize=980:*)
 
 
 Helpful cooking tips
